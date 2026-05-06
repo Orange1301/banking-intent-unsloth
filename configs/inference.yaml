@@ -1,0 +1,2 @@
+checkpoint_path: "/kaggle/input/datasets/latorange/banking-intent-unsloth-2/banking-intent-unsloth/llama_lora"
+max_seq_length: 256
