@@ -1,5 +1,5 @@
-**Author:** Nguyen Ngoc Canh
-**Institution:** University of Science, VNU-HCM
+**Author:** Nguyen Ngoc Canh  
+**Institution:** University of Science, VNU-HCM  
 **Course:** Applications of Natural Language Processing in Industry
 
 ## 📌 Overview
