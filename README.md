@@ -1,6 +1,6 @@
-**Author:** Ngoc Canh Nguyen  
-**Institution:** University of Science, VNU-HCM  
-**Course:** Applications of Natural Language Processing in Industry  
+**Author:** Nguyen Ngoc Canh
+**Institution:** University of Science, VNU-HCM
+**Course:** Applications of Natural Language Processing in Industry
 
 ## 📌 Overview
 This repository contains the source code for fine-tuning a text classification model on a subset of the **BANKING77** dataset using **Unsloth**. The project includes scripts for data processing, training, and running standalone inference.
