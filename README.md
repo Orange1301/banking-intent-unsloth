@@ -11,7 +11,7 @@ This project is designed to be executed directly on **Kaggle** without any compl
 To set up the environment:
 1. Create a new Notebook on [Kaggle](https://www.kaggle.com/).
 2. Upload the entire project directory (including `scripts/`, `configs/`, and `sample_data/`) to Kaggle workspace.
-3. Navigate to **Notebook Options (three dots) > Accelerator** and select **GPU T4 x2**.
+3. Navigate to **Settings > Accelerator** and select **GPU T4 x2**.
 
 ## 📂 Data Preparation
 The model uses a sampled version of the BANKING77 dataset. Ensure your data files are correctly placed in the `sample_data/` directory before running the scripts:
